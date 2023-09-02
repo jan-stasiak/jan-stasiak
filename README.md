@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Stasiak</h1>
 <h3 align="center">A passionate Information Technology student from Poland</h3>
 
-- 💻 I’m currently working on [CodeMyMaybe - Website for freelancers](https://github.com/moginski01/CodeMeMaybe)
-
-- 👓 I’m currently working on [VR programme on Oculus Quest 2 related to anthropometry](https://github.com/moginski01/oculus)
-
-- 🌱 I’m currently learning **MERN stack**
-
-
-
 <h3 align="left">Connect with me:</h3>
 
 - 📫 How to reach me [stasiak_jan@proton.me](stasiak_jan@proton.me)
